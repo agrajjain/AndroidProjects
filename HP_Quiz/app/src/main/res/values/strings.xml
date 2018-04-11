@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HP_Quiz</string>
+    <string name="start">Start</string>
+    <string name="Question1">How many broomsticks are flown in a full game of Quidditch?</string>
+    <string name="Q1opt1">Fourteen</string>
+    <string name="Q1opt2">Sixteen</string>
+    <string name="Q1opt3">Fifty Seven</string>
+    <string name="Q1opt4">Fifteen</string>
+    <string name="Question2">What is Prof. Dumbledore\'s FULL name?</string>
+    <string name="Question2Hint">5 Words.</string>
+    <string name="q2Answer">Albus Percival Wulfric Brian Dumbledore</string>
+    <string name="Question3">Which of these students were part of Dumbledore\'s Army?</string>
+    <string name="Q3opt1">Lavender Brown</string>
+    <string name="Q3opt2">Remus Lupin</string>
+    <string name="Q3opt3">Lee Jordan</string>
+    <string name="Q3opt4">Susan Bones</string>
+    <string name="Q3opt5">Vincent Crabbe</string>
+    <string name="Q3opt6">Pansy Parkinson</string>
+    <string name="Question4">According to the Dursleys, how did Harry’s parents die?</string>
+    <string name="Q4opt1">In a plane crash</string>
+    <string name="Q4opt2">In a car crash</string>
+    <string name="Q4opt3">In a train crash</string>
+    <string name="Q4opt4">In a bus crash</string>
+    <string name="Question5">How many years had Scabbers been with the Weasley family?</string>
+    <string name="Q5opt1">Fifteen Years</string>
+    <string name="Q5opt2">Three Years</string>
+    <string name="Q5opt3">Twelve Years</string>
+    <string name="Q5opt4">Seven Years</string>
+    <string name="correctAnswer">"Congratulations!!! Correct Answer!"</string>
+    <string name="thankYou">"Thank you for playing!!"</string>
+    <string name="wrongAnswer">Sorry!! Wrong Answer!</string>
+</resources>
